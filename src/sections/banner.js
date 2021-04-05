@@ -47,9 +47,8 @@ export default function Banner() {
             Experience your ultimate mobile application
           </Heading>
           <Text as="p" variant="heroSecondary">
-            Get your blood tests delivered at let home collect sample from the
-            victory of the managements that supplies best design system
-            guidelines ever.
+            Kembangkan tim berkinerja tinggi
+            bahkan saat semua orang bekerja remote
           </Text>
           <Flex>
             <Button variant="whiteButton" aria-label="Get Started">
